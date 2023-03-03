@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-<!--
-**dev-abulhassan/dev-abulhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Search Engine Optimization, WordPress
+- 🌱 I’m currently learning: Full Stack Developer
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: SEO
 - 📫 How to reach me: abulhassan.dev@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## ❤ Views and Followers
 
@@ -22,3 +22,20 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/dev-abulhassan?tab=followers">
 <img src="https://img.shields.io/github/followers/dev-abulhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
+
+
+<!-- github states and trofee -->
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="imadnanhassan :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=imadnanhassan&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+       </td>
+       <td><img alt="imadnanhassan :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadnanhassan&langs_count=14&theme=blue-green&layout=compact"> 
+        </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=imadnanhassan&theme=black-green&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
