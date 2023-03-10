@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about: SEO
 - 📫 How to reach me: abulhassan.dev@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+- ⚡ Fun fact: ...
 
 
 ## ❤ Views and Followers
