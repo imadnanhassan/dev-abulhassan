@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/dev-abulhassan?tab=followers">
 <img src="https://img.shields.io/github/followers/dev-abulhassan?label=Followers&style=social" alt="GitHub Badge"  height="30"></a><br/>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dev-abulhassan.dev-abulhassan&left_color=aqua&right_color=aliceblue"  />
+</div>
 
 <!-- github states and trofee -->
 <p align="center">
