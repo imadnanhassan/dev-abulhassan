@@ -7,21 +7,8 @@
 ###
 
 
-### Hi there 👋
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Search Engine Optimization, WordPress
-- 🌱 I’m currently learning: Full Stack Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about: SEO, React JS
-- 📫 How to reach me: abulhassan.dev@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about: SEO, React JS<br>⚡ Fun fact
 
 
 
@@ -79,8 +66,6 @@ Here are some ideas to get you started:
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
