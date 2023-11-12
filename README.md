@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Packnshift]<br>👯 I’m looking to collaborate on [Packnshift]<br>🌱 I’m currently learning "Next Js, TypeScript"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন
+🔭 I’m currently working on [Packnshift]<br>👯 I’m looking to collaborate on [Packnshift]<br>🌱 I’m currently learning "Next Js, TypeScript"<br>💬 Ask me about "SEO, React JS"<br>⚡ Fun fact, লাইফ প্যারা হীন .
 
 
 
